@@ -10,3 +10,5 @@
 /lib/
 /classes/
 /native/
+/target/
+config.clj
